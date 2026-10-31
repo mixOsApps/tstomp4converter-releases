@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.6.0/convert-and-download-1.6.0.apk",
-  "releaseNotes": "First version on the update feed.",
-  "forceUpdate": false
+    "versionCode":  2,
+    "versionName":  "1.7.0",
+    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.7.0/convert-and-download-1.7.0.apk",
+    "releaseNotes":  "The first tab is now Convert. New Browser tab that finds videos on any page, with bookmarks. Faster downloads with live speed. New Settings screen with updates that download in the background.",
+    "forceUpdate":  false
 }
