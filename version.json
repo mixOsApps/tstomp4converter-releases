@@ -1,7 +1,7 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.7.1",
-    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.7.1/convert-and-download-1.7.1.apk",
-    "releaseNotes":  "New app icon: a download arrow through a hidden M.",
+    "versionCode":  5,
+    "versionName":  "1.9.0",
+    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.9.0/convert-and-download-1.9.0.apk",
+    "releaseNotes":  "New browsing history in the Browser tab, and videos on sites whose player showed \"Sandbox Restriction\" can now be found and downloaded.",
     "forceUpdate":  false
 }
