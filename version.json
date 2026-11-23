@@ -1,7 +1,7 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.12.0",
-    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.12.0/convert-and-download-1.12.0.apk",
-    "releaseNotes":  "Built-in video and audio player; choose where files are saved; a notification with Open and Share for each download; optional subtitles and SponsorBlock; yt-dlp update button in Settings; converted MP3s save again.",
+    "versionCode":  9,
+    "versionName":  "1.12.1",
+    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.12.1/convert-and-download-1.12.1.apk",
+    "releaseNotes":  "The download queue is no longer lost when Android closes the app mid-download: it resumes by itself, continuing the interrupted video from where it stopped.",
     "forceUpdate":  false
 }
