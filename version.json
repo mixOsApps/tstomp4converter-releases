@@ -1,7 +1,7 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.12.1",
-    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.12.1/convert-and-download-1.12.1.apk",
-    "releaseNotes":  "The download queue is no longer lost when Android closes the app mid-download: it resumes by itself, continuing the interrupted video from where it stopped.",
+    "versionCode":  10,
+    "versionName":  "1.13.0",
+    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.13.0/convert-and-download-1.13.0.apk",
+    "releaseNotes":  "Download up to 5 videos at once (Settings, \"Downloads at once\"; starts at 1). Pause and resume each download, or pause all from the notification; a paused download continues from where it stopped.",
     "forceUpdate":  false
 }
