@@ -1,7 +1,7 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.13.0",
-    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.13.0/convert-and-download-1.13.0.apk",
-    "releaseNotes":  "Download up to 5 videos at once (Settings, \"Downloads at once\"; starts at 1). Pause and resume each download, or pause all from the notification; a paused download continues from where it stopped.",
+    "versionCode":  11,
+    "versionName":  "1.13.1",
+    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.13.1/convert-and-download-1.13.1.apk",
+    "releaseNotes":  "The progress line now says what is happening: Video, then Audio (YouTube sends them separately), then Joining video and audio. MP3s show Converting to MP3, and the subtitle and sponsor steps show too.",
     "forceUpdate":  false
 }
