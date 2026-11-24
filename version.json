@@ -1,7 +1,7 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.14.0",
-    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.14.0/convert-and-download-1.14.0.apk",
-    "releaseNotes":  "Updates now show their progress on screen (Background or Cancel), never download the same version twice, and only install when you tap Install.",
+    "versionCode":  13,
+    "versionName":  "1.14.1",
+    "apkUrl":  "https://github.com/mixOsApps/tstomp4converter-releases/releases/download/v1.14.1/convert-and-download-1.14.1.apk",
+    "releaseNotes":  "A cancelled update download now carries on where it stopped, even after the app was closed.",
     "forceUpdate":  false
 }
